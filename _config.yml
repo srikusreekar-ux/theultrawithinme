@@ -1,0 +1,12 @@
+title: "Sreekar Trail Portfolio"
+description: "Trail running adventures, races, and stories"
+baseurl: ""           # leave empty if using username.github.io
+url: "https://theultrawithinme.github.io"  # replace with your site URL
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# optional - customize
+author: "Sreekar"
